@@ -313,10 +313,10 @@ people page:
 
 ### Home Page:
 ![homepage](https://user-images.githubusercontent.com/94165327/147454088-9f3bfa09-81d5-4e47-b996-29519f11a786.PNG)
+![productpage](https://user-images.githubusercontent.com/94165327/147454887-20ddb206-87c4-4af7-90aa-ba426b734b5a.PNG)
+![peoplepage](https://user-images.githubusercontent.com/94165327/147454926-4a9752a8-50c9-4d9b-8a75-5ced242cf984.png)
+![contactpage](https://user-images.githubusercontent.com/94165327/147454944-47ba8a0d-c75e-4255-a5ab-55854aecfb7f.png)
 
-![output](.)
-![output](.)
-![output](.)
 
 ## Result:
 
